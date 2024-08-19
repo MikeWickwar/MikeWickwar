@@ -5,7 +5,7 @@ Senior Software Developer with 8+ years of full stack expertise in C#, .NET, and
 [![My Skills](https://skillicons.dev/icons?i=angular,atom,azure,cs,css,docker,dotnet,express,git,gulp,html,jquery,js,less,npm,postgres,sass,ts,vue,vscode,wasm,webpack)](https://skillicons.dev)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mikewickwar&theme=onedark&no-frame=true&row=1&column=7)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikewickwar&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikewickwar&layout=compact&langs_count=10)
 
 ## 🚀 About Me
   - 🔭 I'm currently seeking new opportunities to further my journey as a seasoned full-stack developer.
