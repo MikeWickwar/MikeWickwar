@@ -2,7 +2,8 @@
 
 Senior Software Developer with 8+ years of full stack expertise in C#, .NET, and JavaScript. Adept at transforming complex challenges into intuitive solutions, particularly in identity management. Known for driving innovation and delivering high-impact, scalable products that exceed expectations.
 
-![Mike's Stats](https://github-readme-stats.vercel.app/api?username=MikeWickwar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide=contribs,rank,issues)
+![trophy](https://github-profile-trophy.vercel.app/?username=mikewickwar&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikewickwar&layout=compact&langs_count=8)
 
 ## 🚀 About Me
   - 🔭 I'm currently seeking new opportunities to further my journey as a seasoned full-stack developer.
